@@ -8,10 +8,13 @@ TODO List:
 
 | Methods | Task | Status | Path |
 |--|--|--|--|
+|Fair Diffusion | t2i + fairness| |
 | SDEdit | t2i, inpainting, outpainting |  |  |
+|P2P| t2i, edit | | |
 | SDS | t2i |  |  |
 | DDS | t2i |  |  |
 | CycleDiffusion | t2i |  |  |
+| InfEdit | t2i |  |  |
 | DDRM| inverse |  |  |
 | MCG | inverse |  |  |
 | DPS | inverse |  |  |
